@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+body { 
+	margin: 0; 
+	padding: 0;
+	top: 0;
+	font-family: 'Indie Flower', cursive;
+	}
+
+#css-zen-garden{
+	background-color: 
+	}
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #FFFFFF;
+	}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+
+h1 { 
+	font-size: 100px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	}
+
+h2 {
+	font-size: 35px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+ 	}
+
+ 
+
+	h3 { 
+	font: 'Indie Flower'1.8em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	text-align-last: center;
+	}
+
+	p { 
+	margin-top: 20px; 
+	text-align: center;
+	color: #FFFFFF,
+	}
+	
+
+	header {
+	background:url("../img/indiebike.jpg") no-repeat;
+	position: relative;
+	height: 500px;
+	width: 100%;
+	margin-top: -100px;
+	padding: 25% 0 25% 0;
+	text-align: center;
+	}
+	
+
+	header h1 {
+	color: #443F45;
+	}
+
+	header h2 {
+	margin-top: -75px;
+	color: #FFFFFF;
+	}
+
+	.summary {
+	color: #FFFFFF;
+	font-size: 20px;
+	}
+
+	.main-supporting {
+	background: url("../img/indi3.jpg") no-repeat;
+	position: relative;
+	height: 800px;
+	width: 100%;
+	margin-top: -228px;
+	margin-bottom: 0px;
+		text-align: center;
+	}
+	
+ 	.preamble {
+ 	color:#F5FFFA;
+ 	font-size: 20px;	
+	border-style: solid; 
+	border-width:0px;
+	margin:7px; 
+	padding:7px;
+	}
+
+ 	.explanation {
+ 	color: #F5FFFA;
+ 	border-style: solid; 
+	border-width:0px;
+	margin:7px; 
+	padding:7px;
+	}
+
+	.participation {
+	color: #F5FFFA;
+	border-style: solid; 
+	border-width:0px;
+	margin:7px; 
+	padding:7px;
+ 	}
+
+	.benefits {
+	color: #F5FFFA;
+	border-style: solid; 
+	border-width:0px;
+	margin:7px; 
+	padding:7px;
+ 	}
+	
+	.requirements{
+	color:#F5FFFA;
+	border-style: solid; 
+	border-width:0px;
+	margin:7px; 
+	padding:7px;
+
+	} 	
+ }
+ 	footer { 
+	text-align: center; 
+	}
+	footer a:link, 
+	footer a:visited { 
+	margin-right: 100px; 
+	}
+
+	.sidebar{
+	text-align: center;
+	background: url(../img/indie.jpg) no-repeat;
+	position: relative;
+	height: 800px;
+	width: 100%;
+	margin-top: -25px;
+	margin-bottom: -10px
+	padding: 30% 0 30% 0;
+	text-align: center;
+	}
+	
+	.wrapper{
+	text-align: center;
+	}
+
+	.design-selection {
+	color: #E8EDF7;
+	width:33%;
+	float: left;
+	}
+
+	.design-archives {
+	color: #E8EDF7;
+	width: 33%;
+	float: left;
+	}
+
+	.zen-resources {
+	color: #E8EDF7;
+	width: 33%;
+	float: left;
+	}
+
+	ul{
+		text-decoration: none;
+	}
+	
+	ul li{
+		text-decoration: none;
+		list-style-type: none;
+	}
+
+
+
+
+
+	
